@@ -1,0 +1,40 @@
+body{
+    background-image: url(../src/img/fondook.jpg);
+    background-position: center center;
+    background-size: cover; /*Toma la mayor escala de la hojaposible sin recotarla ni estirarla */
+    min-height: 100vh;
+    border-image: 0%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 48px;
+    color:white;
+    text-align: center;
+    }
+    .img{
+        flex-direction:row;
+        align-self: space-between;
+        width: 200px; height: 200px;
+        border-radius: 10em;
+        border: white 2px solid; 
+        flex-direction: row;
+    }
+.contenedor{
+
+ max-width: 120 rem;
+    margin: 0 auto 0 auto;
+    text-align: center;
+ color: white;
+}
+
+
+
+    
+
+
+
+
+/*
+
